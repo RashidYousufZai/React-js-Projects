@@ -2,6 +2,7 @@ import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import { Home, About, Products, Contact, SinglePageProduct, Cart, Profile, ErrorPage } from "./pages/index"
 import Navbar from './component/Navbar';
+import Footer from './component/Footer';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         <Route path='/profile' element={<Profile />} />
         <Route path='*' element={<ErrorPage />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }

@@ -118,3 +118,27 @@ $secondry-background : #f0f0f2;
         }
     }
 }
+
+
+// @media only screen and (min-width: 600px) {
+//     .rounded-top {
+//         display: none;
+//     }
+// }
+
+@media only screen and (max-width: 789px) {
+    .rounded-top {
+        display: none;
+    }
+
+    .hero {
+        height: 580px;
+
+        .colum-1 {
+            h1 {
+                font-size: 58px !important;
+            }
+        }
+    }
+
+}

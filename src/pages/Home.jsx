@@ -5,6 +5,7 @@ import Card from "../component/Card"
 import Galery from '../component/Galery'
 import "./Home.scss"
 import PopularItems from '../component/PopularItems';
+import Payment from '../component/Payment';
 
 const Home = () => {
     return (
@@ -20,6 +21,7 @@ const Home = () => {
 
             <Galery />
             <PopularItems />
+            <Payment />
         </div>
     )
 }

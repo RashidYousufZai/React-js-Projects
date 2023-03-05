@@ -36,6 +36,14 @@ nav {
     .nav-item {
         margin: 8px 0;
 
+        .navbar-nav {
+            justify-content: space-evenly !important;
+            align-content: space-around !important;
+            flex-wrap: wrap !important;
+            flex-direction: column !important;
+            align-items: center !important;
+        }
+
         a {
             margin: 10px 10px;
             text-decoration: none;

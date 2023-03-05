@@ -9,6 +9,7 @@ $secondry-background : #f0f0f2;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     width: 60%;
     margin-left: auto;
     margin-right: auto;
@@ -40,7 +41,8 @@ $secondry-background : #f0f0f2;
 }
 
 .p-items {
-    justify-content: space-around;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .main-card {
