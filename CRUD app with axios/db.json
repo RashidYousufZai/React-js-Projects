@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "987-654-3210",
+      "website": "www.example.org"
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "username": "alexjohnson",
+      "email": "alexjohnson@example.com",
+      "phone": "555-555-5555",
+      "website": "www.example.net"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "username": "sarahwilliams",
+      "email": "sarahwilliams@example.com",
+      "phone": "111-222-3333",
+      "website": "www.example.co"
+    },
+    {
+      "id": 5,
+      "name": "Michael Brown",
+      "username": "michaelbrown",
+      "email": "michaelbrown@example.com",
+      "phone": "999-888-7777",
+      "website": "www.example.io"
+    },
+    {
+      "id": 6,
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "444-555-6666",
+      "website": "www.example.info"
+    },
+    {
+      "id": 7,
+      "name": "Matthew Taylor",
+      "username": "matthewtaylor",
+      "email": "matthewtaylor@example.com",
+      "phone": "777-888-9999",
+      "website": "www.example.xyz"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Anderson",
+      "username": "oliviaanderson",
+      "email": "oliviaanderson@example.com",
+      "phone": "666-777-8888",
+      "website": "www.example.biz"
+    },
+    {
+      "id": 9,
+      "name": "Daniel Martinez",
+      "username": "danielmartinez",
+      "email": "danielmartinez@example.com",
+      "phone": "222-333-4444",
+      "website": "www.example.us"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Johnson",
+      "username": "sophiajohnson",
+      "email": "sophiajohnson@example.com",
+      "phone": "333-444-5555",
+      "website": "www.example.me"
+    },
+    {
+      "name": "Muhammad Rashid Khan",
+      "email": "iamrashidyousufzai@gmail.com",
+      "phone": "03102807579",
+      "id": 11
+    },
+    {
+      "name": "Muhammad Majid Khan",
+      "email": "maijid@gmail.com",
+      "phone": "03102807579",
+      "id": 12
+    },
+    {
+      "name": "Muhammad Rashid Khan",
+      "email": "iamrashidyousufzai@gmail.com",
+      "phone": "03102807579",
+      "id": 13
+    }
+  ]
+}
